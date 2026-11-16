@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.just-done/just",
+  "title": "Just.",
+  "description": "Domain names and websites for the business you are building with AI.",
+  "websiteUrl": "https://just-done.ai",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/just-done/just-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.just-done.ai/"
+    }
+  ]
+}

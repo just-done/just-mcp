@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "just": {
+      "type": "streamable-http",
+      "url": "https://mcp.just-done.ai/"
+    }
+  }
+}
