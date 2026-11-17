@@ -2,7 +2,7 @@
 
 **Domains and websites for businesses built with AI**
 
-Just. The business side of building with AI. Ask for a domain name for your business and the assistant checks whether it is available, then opens checkout on justdomain.ai, where you confirm and pay. Ask it to put your website online and it publishes the files at a public address; ask again and it changes a page. When your site is ready for your own domain, it hands you a link to finish in your browser. You sign in once with your Just account.
+The business you are building with AI gets its name and its website online, from the assistant you already use. Find and buy its domain on justdomain.ai, then put the site online with justpublish.ai at that address and change it whenever you ask.
 
 - **Website:** https://just-done.ai
 - **MCP endpoint:** `https://mcp.just-done.ai/`
