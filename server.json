@@ -5,6 +5,15 @@
   "description": "Domain names and websites for the business you are building with AI.",
   "websiteUrl": "https://just-done.ai",
   "version": "0.1.0",
+  "icons": [
+    {
+      "src": "https://just-done.ai/icon-ink-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/just-done/just-mcp",
     "source": "github"
